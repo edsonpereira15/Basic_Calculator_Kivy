@@ -73,9 +73,4 @@ A biblioteca Kivy foi escolhida para este projeto pelas seguintes razões:
     python main.py # Ou o nome do seu arquivo principal, se for diferente
     ```
 
-## 📸 Capturas de Tela (Opcional, mas Altamente Recomendado)
-
-![Captura de tela da calculadora Kivy](caminho/para/sua/imagem.png)
-*Substitua `caminho/para/sua/imagem.png` pela localização da sua imagem.*
-
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
